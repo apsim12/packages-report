@@ -1,4 +1,4 @@
-dat <- read.csv(here::here("data", "installed-packages.csv"))
+dat <- mtcars
 
 # Count packages in the dataset
 nrow(dat)
