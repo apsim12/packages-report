@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 dat <- mtcars
 
 # Count packages in the dataset
